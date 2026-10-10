@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+scikit-learn>=1.5
+torch
+matplotlib
+seaborn
+joblib
+openpyxl
